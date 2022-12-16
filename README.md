@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" src="https://github.com/vanhohen/vanhohen/blob/main/praise-the-sun.jpg">
+</p>
+
 ```
 import intro
 
